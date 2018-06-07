@@ -1,11 +1,11 @@
 channels:
   - conda-forge
+  - xnd/label/dev
   - defaults
 
 dependencies:
   - python==3.6
   - numpy
-  - pip:
-    - xnd 
-    - gumath
-     
+  - gumath
+  - xnd
+
