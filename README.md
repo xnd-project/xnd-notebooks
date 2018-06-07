@@ -1,11 +1,10 @@
 # xnd Example Notebooks
 
-This repository showcases examples of using xnd. This collection of Jupyter notebooks are intended to train the reader on different xnd concepts, from basic to advanced.
+This repository showcases examples of using xnd. This collection of Jupyter notebooks is intended to train the reader on different xnd concepts, from basic to advanced.
 
+These notebooks should be easy to run locally if you donwload this repository. They are also available on the cloud by clicking on the link below:
 
-
-# Usage (TODO)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Quansight/xnd-notebooks/master)
 
 # Contributing
 
