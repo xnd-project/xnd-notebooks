@@ -9,3 +9,9 @@ These notebooks should be easy to run locally if you donwload this repository. T
 # Contributing
 
 Contributions are welcome! For bug reports or requests please submit an issue. 
+
+
+Update:
+- Progress: working on examples for https://github.com/Quansight/xnd-notebooks/
+- Plans: 
+- Problems: 
