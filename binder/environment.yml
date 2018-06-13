@@ -11,3 +11,4 @@ dependencies:
   - matplotlib
   - cycler
   - networkx
+  - importnb
