@@ -1,6 +1,8 @@
+name: xnd-env
 channels:
   - conda-forge
   - xnd/label/dev
+  - QuantStack
   - defaults
 
 dependencies:
@@ -12,3 +14,6 @@ dependencies:
   - cycler
   - networkx
   - importnb
+  - numba
+  - jupyterlab_launcher>=0.5.0
+  - xeus-cling
