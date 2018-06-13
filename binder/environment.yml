@@ -17,3 +17,4 @@ dependencies:
   - numba
   - jupyterlab_launcher>=0.5.0
   - xeus-cling
+  - pytest
