@@ -1,4 +1,5 @@
-# xnd Example Notebooks
+# xnd Example Notebooks 
+[![Build Status](https://travis-ci.org/Quansight/xnd-notebooks.svg?branch=master)](https://travis-ci.org/Quansight/xnd-notebooks)
 
 This repository showcases examples of using xnd. This collection of Jupyter notebooks is intended to train the reader on different xnd concepts, from basic to advanced.
 
