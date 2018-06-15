@@ -2,8 +2,6 @@ name: xnd-env
 channels:
   - conda-forge
   - xnd/label/dev
-  - QuantStack
-  - defaults
 
 dependencies:
   - python==3.6
@@ -15,9 +13,16 @@ dependencies:
   - networkx
   - importnb
   - numba
-  - jupyterlab_launcher>=0.5.0
-  - xeus-cling
+  - jupyterlab
   - pytest
   - scipy
   - holoviews
   - bokeh
+  - pyarrow
+  - pandas 
+  - xarray
+  - dask
+  - line_profiler
+  - snakeviz
+  - pip:
+    - version-information
