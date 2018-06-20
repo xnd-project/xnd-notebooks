@@ -24,5 +24,6 @@ dependencies:
   - dask
   - line_profiler
   - snakeviz
+  - scikit-learn
   - pip:
     - version-information
