@@ -25,5 +25,6 @@ dependencies:
   - line_profiler
   - snakeviz
   - scikit-learn
+  - nodejs
   - pip:
     - version-information
