@@ -4,7 +4,7 @@ channels:
   - xnd/label/dev
 
 dependencies:
-  - python==3.6
+  - python
   - numpy
   - gumath
   - xnd
